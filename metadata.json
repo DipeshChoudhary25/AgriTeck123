@@ -1,0 +1,6 @@
+{
+  "name": "AgriTech - Smart Farm Management & Advisory Platform",
+  "description": "Comprehensive agricultural ecosystem featuring real-time weather forecasting, AI soil health analysis, pest alert warnings, farm marketplace, and expert consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
